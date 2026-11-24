@@ -1,0 +1,4 @@
+{
+  "_comment": "Account numbers referenced deliberately although they are not in the PGC 2007 chart, e.g. when a skill explains that an account does NOT exist. Keyed by repo-relative path, or 'global'.",
+  "global": []
+}
